@@ -1,1 +1,1 @@
-Hier steht drin, was wir mit dem Release 1.1. Alpha ausliefern. Neu ist eine weitere Mind Map Datei für Beschreibungen. 
+In der Aplpha Version sollen die Dokumentationen von Martin freigeben werden un dann über Develop ins Main eingespielt werden.
